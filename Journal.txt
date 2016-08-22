@@ -1,0 +1,2 @@
+22-Aug-2016
+Today's lesson was about Version control systems and the basic comands for managing/creating, cloning a repository
